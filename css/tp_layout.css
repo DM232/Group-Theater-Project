@@ -1,0 +1,25 @@
+@charset "utf-8"
+
+html {
+    background-color: #ff9375;
+}
+
+body {
+    color: #ff474e;
+    background-color: #e4ebec;
+}
+
+header {
+    background-color: #ff9375;
+    color: #e4ebec;
+}
+
+article {
+    background-color: #ff9375;
+    color: #d0d0b3
+}
+
+footer {
+    background-color: #c10635;
+    color: #e4ebec;
+}
