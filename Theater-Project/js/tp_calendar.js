@@ -29,7 +29,7 @@ function calCaption(calDate) {
    /* Where the Year goes */
    var thisYear = calDate.getFullYear();
 
-   /* Where teh caption goes */
+   /* Where the caption goes */
    return "<caption>" + monthName[thisMonth] + " " + thisYear + "</caption>";
 }
 
@@ -48,8 +48,9 @@ function calWeekdayRow() {
    return rowHTML
 }
 
-/* Function to calculate the number of days in the month */
-function daysInMonth(calDate) {
+   /* Function to calculate the number of days in the month */
+   function daysInMonth(calDate) {
+   
    /* Array of the days for each month */
    var dayCount = [31,28,31,30,31,30,31,31,30,31,30,31];
 

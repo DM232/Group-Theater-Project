@@ -11,7 +11,7 @@ html {
  }
  
  body {
-    background-color: rgb(187, 187, 187);
+    background-color: #E4EBEC;
     box-shadow: rgb(51, 51, 51) 10px 0px 40px, rgb(51, 51, 51) -10px 0px 40px;
     border-left: 1px solid gray;
     border-right: 1px solid gray;
@@ -52,7 +52,7 @@ html {
  }
  
  header nav ul li a:hover {
-    color: #FF474E;
+    color: #FF9375;
  }
  
  a#navicon {
@@ -64,6 +64,7 @@ html {
  article {
     width: 90%;
     margin: 20px auto;
+    background-color: #D0D0B3;
  }
  
  article section {
