@@ -52,7 +52,7 @@ html {
  }
  
  header nav ul li a:hover {
-    color: #FF9375;
+    color: #FF474E;
  }
  
  a#navicon {
@@ -78,7 +78,7 @@ html {
  }
  
  article h1 {
-    color: rgb(255, 0, 234);
+    color: #C10635;
     font-family: "Times New Roman", Times,  serif;
     font-weight: normal;
     font-size: 2.5em;
@@ -92,12 +92,12 @@ html {
     line-height: 1.5;
     margin-bottom: 15px;
     font-size: 0.85em;
+    color: #C10635;
  }
  
  article p em {
     color: rgb(85, 201, 255);
  }
- 
  
  
  /* Calendar Style */
